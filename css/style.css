@@ -8,8 +8,11 @@ body {
     background-color: #F9F9F9;
     width: 790px;
     height: 365px;
-    bottom: 150px;
-    position: relative;
+    margin: 0 auto;
+    margin-top: -300px;
+    
+    
+    
 }
 
 .banner {
@@ -48,7 +51,7 @@ body {
 }
 
 .company-logo{
-    margin-bottom: 123px;
+    margin-bottom: 300px;
 }
 
 
@@ -57,13 +60,12 @@ body {
     justify-content: center;
     align-items: center ;
     text-align: center;
-    height: 390px !important;
-    width: 370px !important;
+    height: 370px !important;
+    width: 350px !important;
     border-radius: 8px;
-    /* border: 0px white; */
-    background-color:  #FFFFFF;
+    background-color:  #ffffff ;
+   margin-left: 50px;
     
-
 }
 
 .service-card a {
@@ -81,3 +83,25 @@ p a {
     height: 44px;
 }
 
+.service-bg {
+
+    background-color: #F9F9F9;
+    width: 1370px;
+    height: 265px;
+    margin: 0 auto;
+    margin-top: -200px;
+    
+  
+}
+
+
+
+
+
+/* .testimonial-section {
+    background-color: #F9F9F9;
+    width: 1300px;
+    height: 685px;
+    margin-top: -150px;
+    
+} */
