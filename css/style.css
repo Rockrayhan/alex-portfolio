@@ -1,5 +1,6 @@
 body {
     background-color: #E5E5E5;
+   
     
 }
 
@@ -49,3 +50,34 @@ body {
 .company-logo{
     margin-bottom: 123px;
 }
+
+
+.service-card{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    text-align: center;
+    height: 390px !important;
+    width: 370px !important;
+    border-radius: 8px;
+    /* border: 0px white; */
+    background-color:  #FFFFFF;
+    
+
+}
+
+.service-card a {
+    text-decoration: none;
+    color: #FF5733;
+}
+
+p a {
+    text-decoration: none;
+    color: black;
+}
+
+.service-logo{
+    width: 66px;
+    height: 44px;
+}
+
